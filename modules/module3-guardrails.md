@@ -13,7 +13,7 @@ The Guardrails Module must enforce stronger transparency and stricter evidence-b
 
 mode variable: evidence_mode = "strict"
 
-# When evidence_mode is set to "strict":
+# When evidence_mode is set to "strict": 
 
 Only include claims, equations, and results that appear in the provided text.
 If it cannot find enough information, it must say so explicitly (e.g., “The source text does not provide enough detail to summarize this section in strict evidence mode.”).
