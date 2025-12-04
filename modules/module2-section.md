@@ -21,3 +21,4 @@ The module uses a variable `summary_level` that can take one of two values:
 
 - If `summary_level = "detailed"`  
   → Generate a short paragraph **and** a bullet list of 3–5 key points for each section.
+ 
